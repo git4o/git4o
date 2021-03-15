@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @git4o
+- 👀 I’m interested in developing
+- 🌱 I’m currently learning python/jva/javascript/c#/c++/batchfile
